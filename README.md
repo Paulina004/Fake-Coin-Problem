@@ -1,1 +1,1 @@
-# fake-coin-problem-analysis-of-algo
+# Fake-Coin-Problem-Analysis-of-Algorithms
