@@ -1,6 +1,6 @@
 /********************************************************************************************
-PROJECT NAME: "Finding the Fake Coin" Programming Project
-NAME: Paulina DeVito
+PROJECT: "Finding the Fake Coin" Programming Project
+AUTHOR: Paulina DeVito
 *********************************************************************************************/
 
 
