@@ -1,8 +1,6 @@
 /********************************************************************************************
 PROJECT NAME: "Finding the Fake Coin" Programming Project
 NAME: Paulina DeVito
-COURSE: Analysis of Algorithms (COT6405)
-PROFESSOR: Dr. Cardei
 *********************************************************************************************/
 
 
