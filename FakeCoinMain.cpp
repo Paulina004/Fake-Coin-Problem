@@ -1,6 +1,8 @@
 /********************************************************************************************
 PROJECT: "Finding the Fake Coin" Programming Project
 AUTHOR: Paulina DeVito
+
+COPYING MY CODE IS STRICTLY NOT ALLOWED. Thank you for understanding.
 *********************************************************************************************/
 
 
